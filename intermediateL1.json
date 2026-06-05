@@ -4863,36 +4863,36 @@
           "unit": 10
         },
         {
-        "word": "Beijing",
-        "chinese": "北京",
-        "example": "Beijing is the capital city of China and has a very long history.",
-        "exampleCn": "北京是中國的首都，有著非常悠久的歷史。",
-        "clozeQuestion": "We plan to visit the Great Wall when we travel to ______ next summer.",
-        "clozeCn": "我們計畫明年夏天去北京旅行時參觀長城。",
-        "clozeAnswer": "Beijing",
-        "unit": 10
-      },
-      {
-        "word": "being",
-        "chinese": "存在；生物",
-        "example": "Every human being has the right to be treated with respect and kindness.",
-        "exampleCn": "每一個人類（生物/存在）都有權利受到尊重和善待。",
-        "clozeQuestion": "The strange alien was a green ______ from another planet far away.",
-        "clozeCn": "那個奇怪的外星人是一個來自遙遠另一個星球的綠色生物。",
-        "clozeAnswer": "being",
-        "unit": 10
-      },
-      {
-        "word": "belief",
-        "chinese": "信念；信條",
-        "example": "It is his strong belief that hard work will always lead to success.",
-        "exampleCn": "他堅強的信念是：努力工作總會帶來成功。",
-        "clozeQuestion": "Respecting each other's religious ______ is important for a peaceful society.",
-        "clozeCn": "尊重彼此的宗教信條（信念）對一個和平的社會很重要。",
-        "clozeAnswer": "belief",
-        "unit": 10
+          "word": "Beijing",
+          "chinese": "北京",
+          "example": "Beijing is the capital city of China and has a very long history.",
+          "exampleCn": "北京是中國的首都，有著非常悠久的歷史。",
+          "clozeQuestion": "We plan to visit the Great Wall when we travel to ______ next summer.",
+          "clozeCn": "我們計畫明年夏天去北京旅行時參觀長城。",
+          "clozeAnswer": "Beijing",
+          "unit": 10
+         },
+         {
+          "word": "being",
+          "chinese": "存在；生物",
+          "example": "Every human being has the right to be treated with respect and kindness.",
+          "exampleCn": "每一個人類（生物/存在）都有權利受到尊重和善待。",
+          "clozeQuestion": "The strange alien was a green ______ from another planet far away.",
+          "clozeCn": "那個奇怪的外星人是一個來自遙遠另一個星球的綠色生物。",
+          "clozeAnswer": "being",
+          "unit": 10
+         },
+         {
+          "word": "belief",
+          "chinese": "信念；信條",
+          "example": "It is his strong belief that hard work will always lead to success.",
+          "exampleCn": "他堅強的信念是：努力工作總會帶來成功。",
+          "clozeQuestion": "Respecting each other's religious ______ is important for a peaceful society.",
+          "clozeCn": "尊重彼此的宗教信條（信念）對一個和平的社會很重要。",
+          "clozeAnswer": "belief",
+          "unit": 10
+         }
+        ]
+       }
       }
-    ]
-  }
-}
-```
+     {
