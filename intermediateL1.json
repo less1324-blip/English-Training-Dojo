@@ -1,26 +1,26 @@
 {
   "vocab": {
     "intermediate": {
-      "1": [
-        {
-          "word": "abandon",
-          "chinese": "遺棄；放棄",
-          "example": "The captain ordered everyone to abandon the sinking ship.",
-          "exampleCn": "船長下令所有人棄船。",
-          "clozeQuestion": "Because of the heavy rain, they had to ______ their plans for a picnic.",
-          "clozeCn": "因為下大雨，他們不得不放棄野餐的計劃。",
-          "clozeAnswer": "abandon",
-          "unit": 1
-        },
-        {
-          "word": "abide",
-          "chinese": "遵守",
-          "example": "All citizens must abide by the laws of the country.",
-          "exampleCn": "所有公民都必須遵守國家法律。",
-          "clozeQuestion": "If you join the club, you have to ______ by its strict rules.",
-          "clozeCn": "如果你加入這個俱樂部，就必須遵守其嚴格的規定。",
-          "clozeAnswer": "abide",
-          "unit": 1
+     "1": [
+       {
+         "word": "abandon",
+         "chinese": "遺棄；放棄",
+         "example": "The captain ordered everyone to abandon the sinking ship.",
+         "exampleCn": "船長下令所有人棄船。",
+         "clozeQuestion": "Because of the heavy rain, they had to ______ their plans for a picnic.",
+         "clozeCn": "因為下大雨，他們不得不放棄野餐的計劃。",
+         "clozeAnswer": "abandon",
+         "unit": 1
+       },
+       {
+         "word": "abide",
+         "chinese": "遵守",
+         "example": "All citizens must abide by the laws of the country.",
+         "exampleCn": "所有公民都必須遵守國家法律。",
+         "clozeQuestion": "If you join the club, you have to ______ by its strict rules.",
+         "clozeCn": "如果你加入這個俱樂部，就必須遵守其嚴格的規定。",
+         "clozeAnswer": "abide",
+         "unit": 1
         },
         {
           "word": "ability",
@@ -3179,7 +3179,7 @@
           "exampleCn": "勇敢的士兵在黎明時對敵軍營地發動了突然的攻擊。",
           "clozeQuestion": "He was arrested by the police for physical ______ on another man.",
           "clozeCn": "他因對另一名男子進行身體攻擊而被警方逮捕。",
-          "clozeAnswer": "assassinate",
+          "clozeAnswer": "assault",
           "unit": 7
         },
         {
@@ -4863,36 +4863,36 @@
           "unit": 10
         },
         {
-        "word": "Beijing",
-        "chinese": "北京",
-        "example": "Beijing is the capital city of China and has a very long history.",
-        "exampleCn": "北京是中國的首都，有著非常悠久的歷史。",
-        "clozeQuestion": "We plan to visit the Great Wall when we travel to ______ next summer.",
-        "clozeCn": "我們計畫明年夏天去北京旅行時參觀長城。",
-        "clozeAnswer": "Beijing",
-        "unit": 10
-      },
-      {
-        "word": "being",
-        "chinese": "存在；生物",
-        "example": "Every human being has the right to be treated with respect and kindness.",
-        "exampleCn": "每一個人類（生物/存在）都有權利受到尊重和善待。",
-        "clozeQuestion": "The strange alien was a green ______ from another planet far away.",
-        "clozeCn": "那個奇怪的外星人是一個來自遙遠另一個星球的綠色生物。",
-        "clozeAnswer": "being",
-        "unit": 10
-      },
-      {
-        "word": "belief",
-        "chinese": "信念；信條",
-        "example": "It is his strong belief that hard work will always lead to success.",
-        "exampleCn": "他堅強的信念是：努力工作總會帶來成功。",
-        "clozeQuestion": "Respecting each other's religious ______ is important for a peaceful society.",
-        "clozeCn": "尊重彼此的宗教信條（信念）對一個和平的社會很重要。",
-        "clozeAnswer": "belief",
-        "unit": 10
-      }
-    ]
+          "word": "Beijing",
+          "chinese": "北京",
+          "example": "Beijing is the capital city of China and has a very long history.",
+          "exampleCn": "北京是中國的首都，有著非常悠久的歷史。",
+          "clozeQuestion": "We plan to visit the Great Wall when we travel to ______ next summer.",
+          "clozeCn": "我們計畫明年夏天去北京旅行時參觀長城。",
+          "clozeAnswer": "Beijing",
+          "unit": 10
+        },
+        {
+          "word": "being",
+          "chinese": "存在；生物",
+          "example": "Every human being has the right to be treated with respect and kindness.",
+          "exampleCn": "每一個人類（生物/存在）都有權利受到尊重和善待。",
+          "clozeQuestion": "The strange alien was a green ______ from another planet far away.",
+          "clozeCn": "那個奇怪的外星人是一個來自遙遠另一個星球的綠色生物。",
+          "clozeAnswer": "being",
+          "unit": 10
+        },
+        {
+          "word": "belief",
+          "chinese": "信念；信條",
+          "example": "It is his strong belief that hard work will always lead to success.",
+          "exampleCn": "他堅強的信念是：努力工作總會帶來成功。",
+          "clozeQuestion": "Respecting each other's religious ______ is important for a peaceful society.",
+          "clozeCn": "尊重彼此的宗教信條（信念）對一個和平的社會很重要。",
+          "clozeAnswer": "belief",
+          "unit": 10
+        }
+      ]
+    }
   }
-}
-}
+  }
