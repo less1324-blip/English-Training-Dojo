@@ -562,7 +562,7 @@
             totalAnswered: 0,
             voiceAccent: 'US', 
             speechRate: 0.85,
-            autoSyncUrl: "https://github.com/less1324-blip/yichenvocabulary/blob/14f3caef1de4834e700b626f31d89001ef522eb1/vocab_L1.json",
+            autoSyncUrl: "https://github.com/less1324-blip/English-Training-Dojo/blob/6b8a9bab3678daba7ad0f932fa13d29a6e1ed24c/intermediateL1.json",
             autoSyncMode: "merge",
             autoSyncOnLoad: true
         };
@@ -806,7 +806,7 @@
                     const parsed = JSON.parse(savedState);
                     userState = { ...userState, ...parsed }; 
                     if (!userState.autoSyncUrl) {
-                        userState.autoSyncUrl = "https://github.com/less1324-blip/yichenvocabulary/blob/14f3caef1de4834e700b626f31d89001ef522eb1/vocab_L1.json";
+                        userState.autoSyncUrl = "https://github.com/less1324-blip/English-Training-Dojo/blob/6b8a9bab3678daba7ad0f932fa13d29a6e1ed24c/intermediateL1.json";
                     }
                     if (!userState.voiceAccent) userState.voiceAccent = 'US';
                     if (!userState.speechRate) userState.speechRate = 0.85;
@@ -2273,7 +2273,7 @@
             playSound('click');
             const targetInput = document.getElementById('github-url-input');
             if (targetInput) {
-                targetInput.value = "https://github.com/less1324-blip/yichenvocabulary/blob/14f3caef1de4834e700b626f31d89001ef522eb1/vocab_L1.json";
+                targetInput.value = "https://github.com/less1324-blip/English-Training-Dojo/blob/6b8a9bab3678daba7ad0f932fa13d29a6e1ed24c/intermediateL1.json";
                 showToast("已帶入 GitHub 預設 JSON 連結！可按下啟動雲端提取大陣進行測試。", "info");
             }
         }
@@ -2543,7 +2543,7 @@
             playSound('click');
             const urlInput = document.getElementById('modal-sync-url-input');
             if (urlInput) {
-                urlInput.value = "https://github.com/less1324-blip/yichenvocabulary/blob/14f3caef1de4834e700b626f31d89001ef522eb1/vocab_L1.json";
+                urlInput.value = "https://github.com/less1324-blip/English-Training-Dojo/blob/6b8a9bab3678daba7ad0f932fa13d29a6e1ed24c/intermediateL1.json";
                 showToast("已成功帶入 GitHub 測試資料庫網址！", "info");
             }
         }
