@@ -2840,7 +2840,7 @@
           "clozeQuestion": "The nurse put a bandage on her ______ after she gave some blood.",
           "clozeCn": "護士在她抽血後，在她的手臂上貼了個繃帶。",
           "clozeAnswer": "arm",
-          "unit 6
+          "unit": 6
         },
         {
           "word": "armchair",
@@ -4895,4 +4895,4 @@
     ]
   }
 }
-```
+}
